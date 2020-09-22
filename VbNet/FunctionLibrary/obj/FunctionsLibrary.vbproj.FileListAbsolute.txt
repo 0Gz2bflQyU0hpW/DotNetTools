@@ -1,0 +1,10 @@
+D:\VsNet\Proyectos\Tools2005_I\FunctionLibrary\bin\FunctionLibrary.dll
+D:\VsNet\Proyectos\Tools2005_I\FunctionLibrary\bin\FunctionLibrary.pdb
+D:\VsNet\Proyectos\Tools2005_I\FunctionLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\VsNet\Proyectos\Tools2005_I\FunctionLibrary\obj\Debug\FunctionLibrary.dll
+D:\VsNet\Proyectos\Tools2005_I\FunctionLibrary\obj\Debug\FunctionLibrary.pdb
+D:\VsNet\Proyectos\Tools2008_I\FunctionLibrary\bin\FunctionLibrary.dll
+D:\VsNet\Proyectos\Tools2008_I\FunctionLibrary\bin\FunctionLibrary.pdb
+D:\VsNet\Proyectos\Tools2008_I\FunctionLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\VsNet\Proyectos\Tools2008_I\FunctionLibrary\obj\Debug\FunctionLibrary.dll
+D:\VsNet\Proyectos\Tools2008_I\FunctionLibrary\obj\Debug\FunctionLibrary.pdb

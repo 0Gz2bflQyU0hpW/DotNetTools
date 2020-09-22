@@ -1,0 +1,6 @@
+D:\VsNet\Proyectos\Antares\Antares2\ServidorUniversal\bin\ServidorUniversal.dll
+D:\VsNet\Proyectos\Antares\Antares2\ServidorUniversal\obj\Release\ServidorUniversal.dll
+D:\VsNet\Proyectos\Antares\Antares2\ServidorUniversal\obj\Release\ServidorUniversal.vbprojResolveAssemblyReference.cache
+D:\VsNet\Proyectos\AntaresErp\ServidorUniversal\bin\ServidorUniversal.dll
+D:\VsNet\Proyectos\AntaresErp\ServidorUniversal\obj\Release\ServidorUniversal.dll
+D:\VsNet\Proyectos\AntaresErp\ServidorUniversal\obj\Release\ServidorUniversal.vbprojResolveAssemblyReference.cache

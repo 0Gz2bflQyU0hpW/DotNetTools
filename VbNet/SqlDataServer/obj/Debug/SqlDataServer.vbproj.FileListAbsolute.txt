@@ -1,0 +1,5 @@
+D:\Projects\DotNetTools\VbNet\SqlDataServer\bin\SqlDataServer.dll
+D:\Projects\DotNetTools\VbNet\SqlDataServer\bin\SqlDataServer.pdb
+D:\Projects\DotNetTools\VbNet\SqlDataServer\obj\Debug\SqlDataServer.vbproj.CoreCompileInputs.cache
+D:\Projects\DotNetTools\VbNet\SqlDataServer\obj\Debug\SqlDataServer.dll
+D:\Projects\DotNetTools\VbNet\SqlDataServer\obj\Debug\SqlDataServer.pdb

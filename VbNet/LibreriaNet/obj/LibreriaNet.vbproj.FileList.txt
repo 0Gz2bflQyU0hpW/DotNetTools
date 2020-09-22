@@ -1,0 +1,5 @@
+bin\LibreriaNet.dll
+bin\LibreriaNet.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LibreriaNet.dll
+obj\Debug\LibreriaNet.pdb

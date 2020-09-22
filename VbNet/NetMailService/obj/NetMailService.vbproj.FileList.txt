@@ -1,0 +1,13 @@
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Interop.ADODB.dll
+obj\Release\Interop.CDO.dll
+obj\Release\NetMailService.vbproj.ResolveComReference.cache
+obj\Release\NetMailService.dll
+bin\NetMailService.dll
+bin\NetMailService.pdb
+bin\Interop.CDO.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.CDO.dll
+obj\Debug\NetMailService.vbproj.ResolveComReference.cache
+obj\Debug\NetMailService.dll
+obj\Debug\NetMailService.pdb

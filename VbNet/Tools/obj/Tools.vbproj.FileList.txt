@@ -1,0 +1,10 @@
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Tools.dll
+bin\Tools.dll
+bin\Tools.pdb
+bin\FunctionLibrary.dll
+bin\FunctionLibrary.pdb
+bin\FunctionLibrary.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Tools.dll
+obj\Debug\Tools.pdb

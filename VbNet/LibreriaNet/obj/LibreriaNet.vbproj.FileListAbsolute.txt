@@ -1,0 +1,5 @@
+D:\VsNet\Proyectos\Tools2005_I\LibreriaNet\bin\LibreriaNet.dll
+D:\VsNet\Proyectos\Tools2005_I\LibreriaNet\bin\LibreriaNet.pdb
+D:\VsNet\Proyectos\Tools2005_I\LibreriaNet\obj\Debug\ResolveAssemblyReference.cache
+D:\VsNet\Proyectos\Tools2005_I\LibreriaNet\obj\Debug\LibreriaNet.dll
+D:\VsNet\Proyectos\Tools2005_I\LibreriaNet\obj\Debug\LibreriaNet.pdb

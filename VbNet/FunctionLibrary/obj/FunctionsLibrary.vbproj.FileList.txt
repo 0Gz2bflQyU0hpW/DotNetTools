@@ -1,0 +1,7 @@
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\FunctionLibrary.dll
+bin\FunctionLibrary.dll
+bin\FunctionLibrary.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FunctionLibrary.dll
+obj\Debug\FunctionLibrary.pdb

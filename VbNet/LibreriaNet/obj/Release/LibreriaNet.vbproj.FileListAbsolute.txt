@@ -1,0 +1,7 @@
+D:\VsNet\Proyectos\Antares\Antares2\LibreriaNet\bin\LibreriaNet.dll
+D:\VsNet\Proyectos\Antares\Antares2\LibreriaNet\obj\Release\LibreriaNet.dll
+D:\VsNet\Proyectos\Antares\Antares2\LibreriaNet\obj\Release\LibreriaNet.vbprojResolveAssemblyReference.cache
+D:\VsNet\Proyectos\AntaresErp\LibreriaNet\bin\LibreriaNet.dll
+D:\VsNet\Proyectos\AntaresErp\LibreriaNet\obj\Release\LibreriaNet.dll
+D:\VsNet\Proyectos\AntaresErp\LibreriaNet\obj\Release\LibreriaNet.vbprojResolveAssemblyReference.cache
+D:\VsNet\Proyectos\AntaresErp\LibreriaNet\bin\Microsoft.mshtml.dll

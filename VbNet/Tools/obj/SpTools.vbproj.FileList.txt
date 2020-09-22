@@ -1,0 +1,10 @@
+bin\SpTools.dll
+bin\SpTools.pdb
+bin\SpTools.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SpTools.dll
+obj\Debug\SpTools.xml
+obj\Debug\SpTools.pdb
+bin\FunctionLibrary.dll
+bin\FunctionLibrary.pdb
+bin\FunctionLibrary.xml

@@ -1,0 +1,10 @@
+D:\VsNet\Proyectos\Antares\Antares2\NetMailService\bin\NetMailService.dll
+D:\VsNet\Proyectos\Antares\Antares2\NetMailService\obj\Release\Interop.CDO.dll
+D:\VsNet\Proyectos\Antares\Antares2\NetMailService\obj\Release\NetMailService.vbproj.ResolveComReference.cache
+D:\VsNet\Proyectos\Antares\Antares2\NetMailService\obj\Release\NetMailService.dll
+D:\VsNet\Proyectos\Antares\Antares2\NetMailService\obj\Release\NetMailService.vbprojResolveAssemblyReference.cache
+D:\VsNet\Proyectos\AntaresErp\NetMailService\bin\NetMailService.dll
+D:\VsNet\Proyectos\AntaresErp\NetMailService\obj\Release\NetMailService.vbprojResolveAssemblyReference.cache
+D:\VsNet\Proyectos\AntaresErp\NetMailService\obj\Release\Interop.CDO.dll
+D:\VsNet\Proyectos\AntaresErp\NetMailService\obj\Release\NetMailService.vbproj.ResolveComReference.cache
+D:\VsNet\Proyectos\AntaresErp\NetMailService\obj\Release\NetMailService.dll

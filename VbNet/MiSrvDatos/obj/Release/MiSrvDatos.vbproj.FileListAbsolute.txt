@@ -1,0 +1,5 @@
+D:\VsNet\Proyectos\Antares\Antares2\MiSrvDatos\bin\MiSrvDatos.dll
+D:\VsNet\Proyectos\Antares\Antares2\MiSrvDatos\obj\Release\MiSrvDatos.dll
+D:\VsNet\Proyectos\AntaresErp\MiSrvDatos\bin\MiSrvDatos.dll
+D:\VsNet\Proyectos\AntaresErp\MiSrvDatos\obj\Release\MiSrvDatos.dll
+D:\VsNet\Proyectos\AntaresErp\MiSrvDatos\obj\Release\MiSrvDatos.vbprojResolveAssemblyReference.cache

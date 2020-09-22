@@ -1,0 +1,8 @@
+D:\VsNet\Proyectos\Tools2005_I\Tools\bin\Tools.dll
+D:\VsNet\Proyectos\Tools2005_I\Tools\bin\Tools.pdb
+D:\VsNet\Proyectos\Tools2005_I\Tools\bin\FunctionLibrary.dll
+D:\VsNet\Proyectos\Tools2005_I\Tools\bin\FunctionLibrary.pdb
+D:\VsNet\Proyectos\Tools2005_I\Tools\bin\FunctionLibrary.xml
+D:\VsNet\Proyectos\Tools2005_I\Tools\obj\Debug\ResolveAssemblyReference.cache
+D:\VsNet\Proyectos\Tools2005_I\Tools\obj\Debug\Tools.dll
+D:\VsNet\Proyectos\Tools2005_I\Tools\obj\Debug\Tools.pdb

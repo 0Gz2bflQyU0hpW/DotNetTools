@@ -1,0 +1,9 @@
+D:\VsNet\Proyectos\Tools2008_I\FunctionLibrary\bin\FunctionLibrary.dll
+D:\VsNet\Proyectos\Tools2008_I\FunctionLibrary\obj\Release\ResolveAssemblyReference.cache
+D:\VsNet\Proyectos\Tools2008_I\FunctionLibrary\obj\Release\FunctionLibrary.dll
+D:\VsNet\Proyectos\Antares\Antares2\FunctionLibrary\bin\FunctionLibrary.dll
+D:\VsNet\Proyectos\Antares\Antares2\FunctionLibrary\obj\Release\FunctionLibrary.dll
+D:\VsNet\Proyectos\Antares\Antares2\FunctionLibrary\obj\Release\FunctionsLibrary.vbprojResolveAssemblyReference.cache
+D:\VsNet\Proyectos\AntaresErp\FunctionLibrary\bin\FunctionLibrary.dll
+D:\VsNet\Proyectos\AntaresErp\FunctionLibrary\obj\Release\FunctionLibrary.dll
+D:\VsNet\Proyectos\AntaresErp\FunctionLibrary\obj\Release\FunctionsLibrary.vbprojResolveAssemblyReference.cache

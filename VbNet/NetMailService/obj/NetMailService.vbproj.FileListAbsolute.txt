@@ -1,0 +1,8 @@
+D:\VsNet\Proyectos\Tools2005_I\NetMailService\bin\NetMailService.dll
+D:\VsNet\Proyectos\Tools2005_I\NetMailService\bin\NetMailService.pdb
+D:\VsNet\Proyectos\Tools2005_I\NetMailService\bin\Interop.CDO.dll
+D:\VsNet\Proyectos\Tools2005_I\NetMailService\obj\Debug\ResolveAssemblyReference.cache
+D:\VsNet\Proyectos\Tools2005_I\NetMailService\obj\Debug\Interop.CDO.dll
+D:\VsNet\Proyectos\Tools2005_I\NetMailService\obj\Debug\NetMailService.vbproj.ResolveComReference.cache
+D:\VsNet\Proyectos\Tools2005_I\NetMailService\obj\Debug\NetMailService.dll
+D:\VsNet\Proyectos\Tools2005_I\NetMailService\obj\Debug\NetMailService.pdb
