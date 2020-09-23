@@ -3,3 +3,6 @@ D:\VsNet\Proyectos\Antares\Antares2\MiSrvDatos\obj\Release\MiSrvDatos.dll
 D:\VsNet\Proyectos\AntaresErp\MiSrvDatos\bin\MiSrvDatos.dll
 D:\VsNet\Proyectos\AntaresErp\MiSrvDatos\obj\Release\MiSrvDatos.dll
 D:\VsNet\Proyectos\AntaresErp\MiSrvDatos\obj\Release\MiSrvDatos.vbprojResolveAssemblyReference.cache
+D:\Projects\DotNetTools\VbNet\MiSrvDatos\bin\MiSrvDatos.dll
+D:\Projects\DotNetTools\VbNet\MiSrvDatos\obj\Release\MiSrvDatos.vbproj.CoreCompileInputs.cache
+D:\Projects\DotNetTools\VbNet\MiSrvDatos\obj\Release\MiSrvDatos.dll

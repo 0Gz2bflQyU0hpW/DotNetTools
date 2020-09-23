@@ -8,3 +8,8 @@ D:\VsNet\Proyectos\AntaresErp\NetMailService\obj\Release\NetMailService.vbprojRe
 D:\VsNet\Proyectos\AntaresErp\NetMailService\obj\Release\Interop.CDO.dll
 D:\VsNet\Proyectos\AntaresErp\NetMailService\obj\Release\NetMailService.vbproj.ResolveComReference.cache
 D:\VsNet\Proyectos\AntaresErp\NetMailService\obj\Release\NetMailService.dll
+D:\Projects\DotNetTools\VbNet\NetMailService\bin\NetMailService.dll
+D:\Projects\DotNetTools\VbNet\NetMailService\obj\Release\Interop.CDO.dll
+D:\Projects\DotNetTools\VbNet\NetMailService\obj\Release\NetMailService.vbproj.ResolveComReference.cache
+D:\Projects\DotNetTools\VbNet\NetMailService\obj\Release\NetMailService.vbproj.CoreCompileInputs.cache
+D:\Projects\DotNetTools\VbNet\NetMailService\obj\Release\NetMailService.dll

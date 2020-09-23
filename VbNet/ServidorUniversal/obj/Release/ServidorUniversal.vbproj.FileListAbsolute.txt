@@ -4,3 +4,6 @@ D:\VsNet\Proyectos\Antares\Antares2\ServidorUniversal\obj\Release\ServidorUniver
 D:\VsNet\Proyectos\AntaresErp\ServidorUniversal\bin\ServidorUniversal.dll
 D:\VsNet\Proyectos\AntaresErp\ServidorUniversal\obj\Release\ServidorUniversal.dll
 D:\VsNet\Proyectos\AntaresErp\ServidorUniversal\obj\Release\ServidorUniversal.vbprojResolveAssemblyReference.cache
+D:\Projects\DotNetTools\VbNet\ServidorUniversal\bin\ServidorUniversal.dll
+D:\Projects\DotNetTools\VbNet\ServidorUniversal\obj\Release\ServidorUniversal.vbproj.CoreCompileInputs.cache
+D:\Projects\DotNetTools\VbNet\ServidorUniversal\obj\Release\ServidorUniversal.dll

@@ -7,3 +7,6 @@ D:\VsNet\Proyectos\Antares\Antares2\FunctionLibrary\obj\Release\FunctionsLibrary
 D:\VsNet\Proyectos\AntaresErp\FunctionLibrary\bin\FunctionLibrary.dll
 D:\VsNet\Proyectos\AntaresErp\FunctionLibrary\obj\Release\FunctionLibrary.dll
 D:\VsNet\Proyectos\AntaresErp\FunctionLibrary\obj\Release\FunctionsLibrary.vbprojResolveAssemblyReference.cache
+D:\Projects\DotNetTools\VbNet\FunctionLibrary\bin\FunctionLibrary.dll
+D:\Projects\DotNetTools\VbNet\FunctionLibrary\obj\Release\FunctionsLibrary.vbproj.CoreCompileInputs.cache
+D:\Projects\DotNetTools\VbNet\FunctionLibrary\obj\Release\FunctionLibrary.dll

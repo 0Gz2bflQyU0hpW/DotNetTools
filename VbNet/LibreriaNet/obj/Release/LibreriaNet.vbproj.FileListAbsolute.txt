@@ -5,3 +5,8 @@ D:\VsNet\Proyectos\AntaresErp\LibreriaNet\bin\LibreriaNet.dll
 D:\VsNet\Proyectos\AntaresErp\LibreriaNet\obj\Release\LibreriaNet.dll
 D:\VsNet\Proyectos\AntaresErp\LibreriaNet\obj\Release\LibreriaNet.vbprojResolveAssemblyReference.cache
 D:\VsNet\Proyectos\AntaresErp\LibreriaNet\bin\Microsoft.mshtml.dll
+D:\Projects\DotNetTools\VbNet\LibreriaNet\bin\LibreriaNet.dll
+D:\Projects\DotNetTools\VbNet\LibreriaNet\bin\Microsoft.mshtml.dll
+D:\Projects\DotNetTools\VbNet\LibreriaNet\obj\Release\LibreriaNet.vbproj.CoreCompileInputs.cache
+D:\Projects\DotNetTools\VbNet\LibreriaNet\obj\Release\LibreriaNet.vbproj.CopyComplete
+D:\Projects\DotNetTools\VbNet\LibreriaNet\obj\Release\LibreriaNet.dll
